@@ -2,7 +2,9 @@
 title: "Syllabus for Probability and Statistics"
 author: "Matt Rissler, PhD"
 date: "August 29, 2017"
-output: pdf_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 #Course Information
@@ -23,22 +25,30 @@ output: pdf_document
 |Email| matthew.rissler@loras.edu|
 |Office Phone | 563.588.7792 |
 |Office | HENN 209 |
-|twitter  | @discnerd |
+|twitter  | [\@discnerd](https://twitter.com/discnerd) |
 
 ###Office Hours
+
 |Day     |Time   |Location|
 |--------:|:------|:---------|
-|Monday, Friday| 11:00am-12:30pm | HENN 209|
+|Monday | 11:00am-12:00pm | HENN 209|
 |Tuesday, Thursday | 9am-12pm | HENN 209|
-|Tuesday | 6:30-7:45pm | |
-|Thursday | 9-11am | Math Lab (Headwaters)|
+|Tuesday | 6:30-7:30pm | HENN 250 (Tasty Tuesdays) |
+| Friday| 11:00am-1:00pm | Math Lab (Headwaters)|
+
+#### Other Help
+
+ * [Math Lab](https://docs.google.com/spreadsheets/d/1rA5WV6vNb95eiwjJVkEpyUtkbCREWeLSZYJALpo4Ivc/edit?usp=sharing) (Click for schedule.)
+
+ * Thursday Nights at the Heidenreich's
+
 
 
 ##Resources
 
 ### Textbooks
 
-* OpenIntro Statistics, 3rd Ed. Diez, Barr and Ҫetinkaya-Rundel, ISBN 978-1943450053, 2015. Available at <https://www.openintro.org/stat/textbook.php?stat_book=os>.
+* OpenIntro Statistics, 3rd Ed. Diez, Barr and Cetinkaya-Rundel, ISBN 978-1943450053, 2015. Available at <https://www.openintro.org/stat/textbook.php?stat_book=os>.
 
 * Introduction to Probability, 2nd Ed. Grinstead and Snell. AMS ISBN 0-8218-0749-8, 1997. Also available as a pdf at <http://goo.gl/XWSro>.
 
@@ -57,18 +67,26 @@ Data science is the process of collecting, cleaning, analyzing, summarizing and 
 ##Course Objectives
 
 Students should:
+
 1.	gain factual knowledge (terminology, classification, methods, etc.) in probability and statistics
+
 2.	learn fundamental principles, generalizations, and theories in probability statistics
+
 3.	learn to apply course material (to improve thinking, problem solving, and decision making)
+
 4.	develop specific skills, competencies, and points of view needed by professionals in fields closely related to this course
 
 
 ##Learning Outcomes
 
 1.  You will learn multiple probability distributions, both discrete and continuous, and learn to use them in appropriate manners.
+
 2.	You will learn to calculate various statistics from a data set and what probability distributions they are related to.
+
 3.	You will learn to draw conclusions about a data sets statistic based on the related probability distribution. (Hypothesis Testing)
+
 4.	You will learn different sampling and experimental methods.
+
 5.	You will learn to use the statistical software R.
 
 
@@ -113,17 +131,18 @@ The last day to add a semester-long course is Friday, September 1. The last day 
 
 |Week| Topic(s)|
 |----|---------|
-| 1  | Workflow and Stats Review|
-| 2  | More Workflow |
-| 3  | Intro to Making Pretty Pictures |
-| 4  | Working with tibbles |
-| 5  | Import Data |
-| 6  | Import Data again |
-| 7  | More working with tibbles |
-| 8  | Joining tibbles |
-| 9  | Shiny |
-| 10 | Modeling |
-| 11-14 | Project Work |
+| 1  | Intro to Class/R/RMarkdown|
+| 2  | Vizualizing Data/Where Data Comes From |
+| 3  | Discrete Probability |
+| 4  | Continuous Probability |
+| 5  | Combinatorics |
+| 6  | Conditional Probability |
+| 7  | Distributions |
+| 8  | Expected Value and Variance |
+| 9  | Sum of Variables |
+| 10 | Confidence Intervals |
+| 11 | Hypothesis Tests |
+| 12-16 | More Tests and Projects | 
 
 
 
