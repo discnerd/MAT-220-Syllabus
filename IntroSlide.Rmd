@@ -1,0 +1,29 @@
+---
+title: "Introductory Slide"
+author: "Matt Rissler"
+date: "August 28, 2017"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Information
+
+<!-- This is a comment.  If you want a digital copy of the sheet handed out in class go to the help menu and select Cheatsheets->R Markdown Cheat Sheet -->
+
+<!-- This is a table. Fill in the information-->
+
+| Topic  | Information|
+|--------|------------|
+| Name   | Matt Rissler |
+| Major  | Mathematical Biology/Data Science |
+| Hometown | Front Royal, VA |
+| Hobbies | Sports Rankings, House, Kids |
+
+
+<!-- Put a relatively recent picture here where you can see your face well -->
+
+![Kids and I at Mount Rainier](Picture.jpg)
+
