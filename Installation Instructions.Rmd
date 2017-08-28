@@ -1,0 +1,37 @@
+---
+title: "Installation Instructions"
+author: "Matt Rissler"
+date: "August 27, 2017"
+output: html_document
+---
+
+1. Install R
+
+    i) Download from https://cran.rstudio.com/bin/windows/base/
+
+2. Install RStudio
+
+    i) Download from https://www.rstudio.com/products/rstudio/download/
+
+    ii) Pick the Windows one from Installers for Supported Platforms
+
+3. Install packages
+
+    i) Open RStudio
+
+      A. Pin it to the taskbar
+
+    ii) In the bottom right-hand pane look at the tabs at the top and select 
+Packages.
+
+    iii) Click Install
+
+      A. In the Packages box type `RcmdrPlugin.KMggplot2, OIdata, openintro, readr, tidyverse`
+
+      B. Click Install
+
+      C. Watch the download box and text flow by
+
+    iv) Check the box by RcmdrPlugin.KMggplot2 in the Package pane.
+
+      A. A window will pop-under.  Alt+Tab to get to it and click Yes and then OK.
