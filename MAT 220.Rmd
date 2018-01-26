@@ -1,7 +1,7 @@
 ---
 title: "Syllabus for Probability and Statistics"
 author: "Matt Rissler, PhD"
-date: "August 29, 2017"
+date: "January 29, 2018"
 output:
   pdf_document: default
   html_document: default
@@ -13,7 +13,7 @@ output:
 |Course Title| Probability and Statistics|
 |Course Number| MAT 220|
 |Credit Hours | 3|
-|Meeting Time | MWF 10:00-10:50|
+|Meeting Time | MWF 14:30-15:20|
 |Meeting Location | HENN 270 |
 |Instructor | Matt Rissler, PhD|
 |Prerequisites | MAT 150 and (MAT 160 or CIT 115)|
@@ -29,16 +29,21 @@ output:
 
 ###Office Hours
 
-|Day     |Time   |Location|
+|Day      |Time   |Location|
 |--------:|:------|:---------|
-|Monday | 11:00am-12:00pm | HENN 209|
-|Tuesday, Thursday | 9am-12pm | HENN 209|
-|Tuesday | 6:30-7:30pm | HENN 250 (Tasty Tuesdays) |
-| Friday| 11:00am-1:00pm | Math Lab (Headwaters)|
+|Monday   | 09:00-10:30 | HENN 209|
+|Tuesday  | 09:00-10:30 | HENN 209|
+| Tuesday | 12:30-14:30 | Math Lab (Headwaters)|
+|Tuesday  | 20:00-21:00 | HENN 250 (Tasty Tuesdays) |
+|Wednesday | 09:00-10:30 | HENN 209|
+|Friday   | 09:00-10:30 | HENN 209|
+
+If none of these work for you, email to schedule a different meeting time.
+
 
 #### Other Help
 
- * [Math Lab](https://docs.google.com/spreadsheets/d/1rA5WV6vNb95eiwjJVkEpyUtkbCREWeLSZYJALpo4Ivc/edit?usp=sharing) (Click for schedule.)
+ * [Math Lab](https://docs.google.com/spreadsheets/d/1dVZPjmJnMY3lY7wMEgyQ27jXH3waD5i9B9bfEHFXh5M/edit?usp=sharing) (Click for schedule.)
 
  * Thursday Nights at the Heidenreich's
 
@@ -57,12 +62,14 @@ output:
 ###Software
 
 * R   <https://cran.r-project.org/bin/windows/base/>
-* RStudio  <https://www.rstudio.com/products/rstudio/download2/>
-* various packages in R
+* Rcmdr
+* various other packages in R
           
 
 ##Course Description
-Data science is the process of collecting, cleaning, analyzing, summarizing and presenting data in a scalable and generalizable manner. In this course, students will learn each of these steps using appropriate software and techniques culminating in a project.
+
+Probability and Statistics is the study of randomness and identifying those changes that can be detected in spite of that randomness.  It also includes the design of investigations, visualization of results, and communication of those results.  
+
 
 ##Course Objectives
 
@@ -93,16 +100,16 @@ Students should:
 #Assessment and Grading
 
 ##Homework
-15% of the final grade - You are expected to complete homework by the time it is due.  Some homework will be assigned on WeBWorK and some on eLearn and is to be turned in to me, or my office by the time it is due.  This will usually be 7:30pm on Tuesday.
+20% of the final grade - You are expected to complete homework by the time it is due.  Some homework will be assigned on WeBWorK and some on eLearn and is to be turned in to me, or my office by the time it is due.  This will usually be 7:30pm on Tuesday.
 
 ##Quizzes
-10% of the final grade - There will be a quiz on a weekly basis on the topics from the last homework assignment.
-
-##Project
-20% of the final grade - You will work in groups of 3ish people to analyze data of your selection.  You will be required to create a report and make a presentation.
+15% of the final grade - There will be a quiz on a weekly basis on the topics from the last homework assignment.
 
 ## Exams
 25% of the final grade each - We will have two exams in this course. Each will include an in-class portion and a take-home portion. The take-home portion will be due on eLearn.   Failure to attend an exam will result in a zero on the in-class portion.
+
+## Journals
+10% of the final grade - There will be a journal entry to be completed each week where you will respond to a prompt pertinent to the content of that week.
 
 ## Math Culture
 5% if the final grade - You are required to accrue at least 20 Math Culture points over the space of the semester.  More information about culture points can be found on eLearn. Culture points are intended to expose you to a broader and deeper scope of mathematics than is available in the courses offered at Loras.
@@ -123,7 +130,7 @@ You are expected to attend every class.  If you are going to miss class, email m
 
 ##Withdrawal Date
 
-The last day to add a semester-long course is Friday, September 1. The last day to withdraw from this class without a ‘W’ is Friday, September 15. The last day to withdraw with a grade of ‘W’ is Friday, October 27.
+The last day to add a semester-long course is Friday, February 2. The last day to withdraw from this class without a ‘W’ is Friday, February 16. The last day to withdraw with a grade of ‘W’ is Friday, March 23.
 
 
 #Tentative Schedule
@@ -131,7 +138,7 @@ The last day to add a semester-long course is Friday, September 1. The last day 
 
 |Week| Topic(s)|
 |----|---------|
-| 1  | Intro to Class/R/RMarkdown|
+| 1  | Intro to Class/R|
 | 2  | Vizualizing Data/Where Data Comes From |
 | 3  | Discrete Probability |
 | 4  | Continuous Probability |
@@ -139,10 +146,14 @@ The last day to add a semester-long course is Friday, September 1. The last day 
 | 6  | Conditional Probability |
 | 7  | Distributions |
 | 8  | Expected Value and Variance |
+| 9  | Spring Break |
 | 9  | Sum of Variables |
 | 10 | Confidence Intervals |
 | 11 | Hypothesis Tests |
-| 12-16 | More Tests and Projects | 
+| 12 | Linear Regression |
+| 13 | More Linear Regression |
+| 14 | Other Tests |
+| 15 | More Tests | 
 
 
 
