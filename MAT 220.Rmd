@@ -32,19 +32,16 @@ output:
 
 |Day      |Time   |Location|
 |--------:|:------|:---------|
-|Monday   | 09:00-10:30 | HENN 209|
-|Tuesday  | 09:00-10:30 | HENN 209|
-| Tuesday | 12:30-14:30 | Math Lab (Headwaters)|
-|Tuesday  | 20:00-21:00 | HENN 250 (Tasty Tuesdays) |
-|Wednesday | 09:00-10:30 | HENN 209|
-|Friday   | 09:00-10:30 | HENN 209|
+| MWF  | 09:00-11:00 | HENN 209|
+|  W  | 18:30-19:30 | HENN 250 (Walk-in Wednesday)|
+| Thursday   | 12:30-14:30 | Math Lab (basement of ARC) |
 
 If none of these work for you, email to schedule a different meeting time.
 
 
 #### Other Help
 
- * [Math Lab](https://docs.google.com/spreadsheets/d/1dVZPjmJnMY3lY7wMEgyQ27jXH3waD5i9B9bfEHFXh5M/edit?usp=sharing) (Click for schedule.)
+ * [Math Lab](https://docs.google.com/spreadsheets/d/e/2PACX-1vQCkw98xgcGaXmERwY9uY3n2o_nrsbZK-dN2FfZfoP1UF0BHKDXjE4GbFILtvtY0P1acUiy6kPOxr4_/pubhtml?gid=0&single=true) (Click for schedule.)
 
  * Walk-in Wednesday
 
@@ -60,8 +57,8 @@ If none of these work for you, email to schedule a different meeting time.
 ###Software
 
 * R   <https://cran.r-project.org/bin/windows/base/>
-* Rcmdr
-* various other packages in R
+* RStudio
+* RMarkdown, tidyverse, ggformula, mosaic
           
 
 ##Course Description
@@ -92,64 +89,35 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 
 
 
-1.  Students will learn multiple probability distributions, both discrete and continuous, and learn to use them in appropriate manners.<span class = "blue"> (QR 1, 2) </span>
+1.  Students will learn multiple probability distributions, both discrete and continuous, and learn to use them in appropriate manners.
 
-2.	Students will learn to calculate various statistics from a data set and what probability distributions they are related to. <span class = "blue">(QR 1)</span>
+2.	Students will learn to calculate various statistics from a data set and what probability distributions they are related to. 
 
-3.	Students will learn to draw conclusions about a data sets statistic based on the related probability distribution. <span class = "blue">(QR 2, 4)</span>
+3.	Students will learn to draw conclusions about a data sets statistic based on the related probability distribution. 
 
-4.	Students will learn different sampling and experimental methods and the mistakes and biases that occur in those processes. <span class = "blue">(QR 4)</span>
+4.	Students will learn different sampling and experimental methods and the mistakes and biases that occur in those processes. 
 
-5.	Students will learn to use statistical software to present and use data in tabular, descriptive, and graphical forms. <span class = "blue">(QR 3)</span>
+5.	Students will learn to use statistical software to present and use data in tabular, descriptive, and graphical forms. 
 
-6.  Students will effectively communicate their analyses and results. <span class = "blue">(QR 5)</span>
-
-
-
-###QR Outcomes (reference only)
-* Students will demonstrate an understanding of mathematical and statistical models.
-
-* Students will pose questions and apply mathematical and statistical models to explore solutions.
-
-* Students will critically analyze the presentation and usage of data in tabular, descriptive, algebraic, and graphical forms.
-
-* Students will identify fallacies, mistakes and biases in the collection, manipulation and interpretation of data.
-
-* Students will effectively communicate their analyses and results.
-
-
-### Mapping from Course to QR (reference only)
-
-<div class = "blue">
-Course outcome | QR Outcome
----------------|-----------
-1              | 1 and 2
-2              | 1
-3              | 2 and 4
-4              | 4
-5              | 3
-6              | 5
-</div>
+6.  Students will effectively communicate their analyses and results. 
 
 
 #Assessment and Grading
 
 ##Homework
 
-15% of the final grade - You are expected to complete homework by the time it is due.  Some homework will be assigned on WeBWorK and some on eLearn and is to be turned in to me, or my office by the time it is due.  This will usually be 7:30pm on Tuesday. (Outcomes 1-5)
+20% of the final grade - You are expected to complete homework by the time it is due.  Some homework will be assigned on WeBWorK and some on eLearn and is to be turned in to me, or my office by the time it is due.  This will usually be 7:30pm on Tuesday. (Outcomes 1-5)
 
 ##Quizzes
-10% of the final grade - There will be a quiz on a weekly basis on the topics from the last homework assignment. (Outcomes 1-5)
+15% of the final grade - There will be a quiz on a weekly basis on the topics from the last homework assignment. (Outcomes 1-5)
 
 ##Project
-20% of the final grade - You will work in groups of 3ish people to analyze data of your selection.  You will be required to create a report and make a presentation. (Outcomes 2-6 ,and hence <span class = "blue">QR Outcomes 1-5</span>)
+20% of the final grade - You will work in groups of 3ish people to analyze data of your selection.  You will be required to create a report and make a presentation. (Outcomes 2-6 )
 
 
 ## Exams
 25% of the final grade each - We will have two exams in this course. Each will include an in-class portion and a take-home portion. The take-home portion will be due on eLearn.   Failure to attend an exam will result in a zero on the in-class portion. (Outcomes 1-4,6)
 
-## Journals
-10% of the final grade - There will be a journal entry to be completed each week where you will respond to a prompt pertinent to the content of that week.
 
 ## Math Culture
 5% if the final grade - You are required to accrue at least 20 Math Culture points over the space of the semester.  More information about culture points can be found on eLearn. Culture points are intended to expose you to a broader and deeper scope of mathematics than is available in the courses offered at Loras.
@@ -170,7 +138,7 @@ You are expected to attend every class.  If you are going to miss class, email m
 
 ##Withdrawal Date
 
-The last day to add a semester-long course is Friday, February 2. The last day to withdraw from this class without a ‘W’ is Friday, February 16. The last day to withdraw with a grade of ‘W’ is Friday, March 23.
+The last day to add a semester-long course is Friday, February 1. The last day to withdraw from this class without a ‘W’ is Friday, February 15. The last day to withdraw with a grade of ‘W’ is Friday, March 22.
 
 
 #Tentative Schedule
@@ -179,20 +147,20 @@ The last day to add a semester-long course is Friday, February 2. The last day t
 |Week| Topic(s)|
 |----|---------|
 | 1  | Intro to Class/R|
-| 2  | Vizualizing Data/Where Data Comes From |
-| 3  | Discrete Probability |
-| 4  | Continuous Probability |
-| 5  | Combinatorics |
-| 6  | Conditional Probability |
-| 7  | Distributions |
-| 8  | Expected Value and Variance |
-| 9  | Spring Break |
-| 10  | Sum of Variables |
-| 11 | Confidence Intervals |
-| 12 | Hypothesis Tests |
-| 13 | Linear Regression |
-| 14 | More Linear Regression |
-| 15 | Other Tests |
+| 2  | Visualizing Data/Where Data Comes From |
+| 3  |  |
+| 4  | |
+| 5  | |
+| 6  | |
+| 7  | |
+| 8  | |
+| 9  | |
+| 10  | |
+| 11 | |
+| 12 | |
+| 13 | |
+| 14 | |
+| 15 | Linear Regression and Project Work |
  
 
 
